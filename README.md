@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhnm9503&label=Profile%20views&color=0e75b6&style=flat" alt="bhnm9503" /> </p>
 
-- 🔭 I’m currently working on **Cryptocurrency**
+- 🔭 I’m currently working on **Cryptocurrency and trad**
 
 - 🌱 I’m currently learning **Trade and build NFT**
 
@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [Medium app](Medium app)
 
-- 💬 Ask me about **😎**
+- 💬 Ask me about **😎🤑🤓**
 
-- 📫 How to reach me **bhnm950@gmail.com**
+- 📫 How to reach me **bh.nm950@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
