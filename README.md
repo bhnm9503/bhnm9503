@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cryptocurrency and trade**
 
-- 🌱 I’m currently learning **Trade and build NFT**
+- 🌱 I’m currently learning **Trade and build NFT in crypto**
 
 - 👯 I’m looking to collaborate on **Zksync**
 
