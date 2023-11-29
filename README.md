@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Bhnm Joon</h1>
+<h1 align="center">Hi 👋, I am Bhnm Joon from france</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhnm9503&label=Profile%20views&color=0e75b6&style=flat" alt="bhnm9503" /> </p>
