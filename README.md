@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Medium app](Medium app)
 
-- 💬 Ask me about **😎🤑🤓**
+- 💬 Ask me about **crypto**
 
 - 📫 How to reach me **bh.nm950@gmail.com**
 
