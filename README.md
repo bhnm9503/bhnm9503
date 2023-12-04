@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhnm9503&label=Profile%20views&color=0e75b6&style=flat" alt="bhnm9503" /> </p>
 
-- 🔭 I’m currently working on **Cryptocurrency and trade**
+- 🔭 I’m currently working on **Cryptocurrency and trade and sport**
 
 - 🌱 I’m currently learning **Trade and build NFT in crypto**
 
