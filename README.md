@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Trade and build NFT in crypto**
 
-- 👯 I’m looking to collaborate on **Zksync**
+- 👯 I’m looking to collaborate on **Zksync & Layer 0**
 
 - 🤝 I’m looking for help with **Zknam**
 
